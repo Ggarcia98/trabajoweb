@@ -1,6 +1,8 @@
 # trabajoweb
-GUSTAVO GARCIA OLIVA 
-Estefany Jaquelin Jimenez Gonzalez
-Abraham Delio Diaz Martinez
-Ana Luisa Hernandez Valdovinos 
-Yamel Vanidia Torreblanca Ramirez 
+GUSTAVO GARCIA OLIVA                      
+ESTEFANY JAQUELIN JIMENENZ GONZALEZ                  
+ABRAHAM DELIO DIAZ MARTINEZ                      
+ANA LUISA HERNANDEZ VALDOVINOS
+YAMEL VANIDIA TORREBLANCA RAMIREZ
+
+
